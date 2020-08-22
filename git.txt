@@ -1,0 +1,21 @@
+git remote set-url origin https://github.com/your/repository
+
+binh thuong:
+git remote add origin https://github.com/leducminhthe/website.git
+
+git commit -m "First commit"
+git push
+
+hàm contructor php: ham tu dong chay khi khoi tao doi tuong
+khi thuoc tinh co gang buoc vd: sucmanh > 0 thi phai private
+extends: ke thua moi thu cua class cha
+laravel:
+public: chua js css images
+resources: chua html
+
+khac phuc confligct
+git checkout HEAD -- <file name>
+
+The file will have its original line endings in your working directory
+git config core.autocrlf true
+
